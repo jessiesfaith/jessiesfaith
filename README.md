@@ -1,12 +1,12 @@
 # Hey there, I'm Jessica 👋
 
-I'm a **Founder, CEO, and CPA** building at the intersection of **education, finance, and AI**. After 15+ years leading accounting and finance at high-growth companies, I'm now creating AI-powered products — from an agentic operations practice to a K–5 learning platform.
+I'm a **Founder, CEO, and CPA** building at the intersection of **education, finance, and AI**. After 15+ years leading systems admin, accounting and finance at high-growth companies, I'm now creating AI-powered products — from an agentic operations practice to a K–12 learning platform.
 
 ---
 
 ## 🛠️ What I Build
 
-- **Scout Quest Education** — a K–5 reading, writing, and AI-literacy platform that gives teachers better tools, keeps parents informed, and introduces AI to students safely and responsibly
+- **Scout Quest Education** — a K–12 reading, writing, and AI-literacy platform that gives teachers better tools, keeps parents informed, and introduces AI to students safely and responsibly
 - **Agentic Operations** — building AI-driven workflows and automations for real business needs (Claude Code, LangGraph, Supabase, Vercel, and more)
 - **AI Training & Advisory** — helping teams adopt AI tools effectively and responsibly
 - **Finance & Estate Planning Tech** — HNW estate planning, cash & tax planning, and bookkeeping powered by modern AI tooling
@@ -42,7 +42,7 @@ Leading product vision, strategy, compliance, and go-to-market for **Scout Quest
 ## 💼 Experience
 
 **Cofounder & CEO** — Scout Quest Education · *Apr 2026 – Present*
-Building a K–5 reading, writing, and AI-literacy platform. Leading product vision, strategy, hiring, compliance, curriculum direction, and technology roadmap.
+Building a K–12 reading, writing, and AI-literacy platform. Leading product vision, strategy, hiring, compliance, curriculum direction, and technology roadmap.
 
 **Founder & CFO** — Fast Insights IO (Self-employed) · *Apr 2024 – Present*
 AI training and Agentic Operations builds; HNW estate planning, cash & tax planning, and bookkeeping.
