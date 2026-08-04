@@ -96,7 +96,7 @@ Allana Buick & Bers, Inc. · *2008 – 2013* · Palo Alto, CA
 ## 💬 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicaddougherty/)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/JessicaD4321)
+[![](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/JessicaD4321)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jessiesfaith)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jessicadougherty4321@gmail.com)
 
