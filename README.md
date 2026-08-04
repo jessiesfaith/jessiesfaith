@@ -2,7 +2,7 @@
 
 I'm a **Founder, CEO, and CPA** building at the intersection of **education, finance, and AI**. After 15+ years leading systems admin, accounting and finance at high-growth companies, I'm now creating AI-powered products — from an agentic operations practice to a K–12 learning platform.
 
- (jessicadougherty.com](https://jessicadougherty.com)---
+ (https://jessicadougherty.com)---
 
 ## 🛠️ What I Build
 
