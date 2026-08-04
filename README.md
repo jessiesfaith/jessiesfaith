@@ -95,9 +95,20 @@ Allana Buick & Bers, Inc. · *2008 – 2013* · Palo Alto, CA
 
 ## 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicaddougherty/)
-[![](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/JessicaD4321)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jessiesfaith)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:jessicadougherty4321@gmail.com)
+<a href="https://www.linkedin.com/in/jessicaddougherty/" target="_blank">
+    <img align="left" alt="LinkedIn" width="24px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+</a>
+<a href="mailto:jessicadougherty4321@gmail.com" target="_blank">
+    <img align="left" alt="Email" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
+</a>
+<a href="https://x.com/JessicaD4321" target="_blank">
+    <img align="left" alt="X" width="24px" src="https://cdn.simpleicons.org/x/white" />
+</a>
+<a href="https://github.com/jessiesfaith" target="_blank">
+    <img align="left" alt="GitHub" width="24px" src="https://cdn.simpleicons.org/github/white" />
+</a>
+
+<br clear="left"/>
+<br>
 
 💬 *My inbox is always open — reach out about edtech, AI, agentic systems, or building something new!*
