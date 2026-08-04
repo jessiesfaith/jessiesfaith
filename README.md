@@ -1,6 +1,6 @@
 # Hey there, I'm Jessica <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="waving hand" />
 
-I'm a **Founder, CEO, and CPA** building at the intersection of **education, finance, and AI**. After 15+ years leading accounting and finance at high-growth companies, I'm now creating AI-powered products — from an agentic operations practice to a K–5 learning platform.
+I'm a **Founder, CEO, and CPA** building at the intersection of **education, finance, and AI**. After 15+ years leading accounting and finance at high-growth companies, I'm now creating AI-powered products — from an agentic operations practice to a K–12 learning platform.
 
 <a href="https://jessicadougherty.com" target="_blank">
     <img align="left" alt="Portfolio" height="22px" src="https://img.shields.io/badge/Portfolio-jessicadougherty.com-2E7D32" />
@@ -10,7 +10,7 @@ I'm a **Founder, CEO, and CPA** building at the intersection of **education, fin
 
 ## <img src="build.gif" width="28" height="28" alt="🛠️" /> What I Build
 
-- **Scout Quest Education** — a K–5 reading, writing, and AI-literacy platform that gives teachers better tools, keeps parents informed, and introduces AI to students safely and responsibly
+- **Scout Quest Education** — a K–12 reading, writing, and AI-literacy platform that gives teachers better tools, keeps parents informed, and introduces AI to students safely and responsibly
 - **Agentic Operations** — building AI-driven workflows and automations for real business needs (Claude Code, LangGraph, Supabase, Vercel, and more)
 - **AI Training & Advisory** — helping teams adopt AI tools effectively and responsibly
 - **Finance & Estate Planning Tech** — HNW estate planning, cash & tax planning, and bookkeeping powered by modern AI tooling
@@ -46,7 +46,7 @@ Leading product vision, strategy, compliance, and go-to-market for **Scout Quest
 ## <img src="experience.gif" width="28" height="28" alt="💼" /> Experience
 
 **Cofounder & CEO** — Scout Quest Education · *Apr 2026 – Present*
-Building a K–5 reading, writing, and AI-literacy platform. Leading product vision, strategy, hiring, compliance, curriculum direction, and technology roadmap.
+Building a K–12 reading, writing, and AI-literacy platform. Leading product vision, strategy, hiring, compliance, curriculum direction, and technology roadmap.
 
 **Founder & CFO** — Fast Insights IO (Self-employed) · *Apr 2024 – Present*
 AI training and Agentic Operations builds; HNW estate planning, cash & tax planning, and bookkeeping.
