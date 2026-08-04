@@ -1,10 +1,13 @@
-# Hey there, I'm Jessica 👋
+# Hey there, I'm Jessica <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" height="30" alt="waving hand" />
 
 I'm a **Founder, CEO, and CPA** building at the intersection of **education, finance, and AI**. After 15+ years leading systems admin, accounting and finance at high-growth companies, I'm now creating AI-powered products — from an agentic operations practice to a K–12 learning platform.
 
 [jessicadougherty.com](https://jessicadougherty.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jessicadougherty.com-2E7D32?style=flat&labelColor=1B5E20)](https://jessicadougherty.com)
+<a href="https://jessicadougherty.com" target="_blank">
+    <img align="left" alt="Portfolio" height="22px" src="https://img.shields.io/badge/Portfolio-jessicadougherty.com-2E7D32" />
+</a>
+
 ---
 
 ## 🛠️ What I Build
