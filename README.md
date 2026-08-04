@@ -9,8 +9,6 @@ I'm a **Founder, CEO, and CPA** building at the intersection of **education, fin
 
 ## 🛠️ What I Build
 
-## 🛠️ What I Build
-
 - **Scout Quest Education** — a K–12 reading, writing, and AI-literacy platform that gives teachers better tools, keeps parents informed, and introduces AI to students safely and responsibly
 - **Agentic Operations** — building AI-driven workflows and automations for real business needs (Claude Code, LangGraph, Supabase, Vercel, and more)
 - **AI Training & Advisory** — helping teams adopt AI tools effectively and responsibly
