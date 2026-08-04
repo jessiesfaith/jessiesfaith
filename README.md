@@ -4,8 +4,9 @@ I'm a **Founder, CEO, and CPA** building at the intersection of **education, fin
 
 [jessicadougherty.com](https://jessicadougherty.com)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jessicadougherty.com-2E7D32?style=flat&labelColor=1B5E20)](https://jessicadougherty.com)  ---
+[![Portfolio](https://img.shields.io/badge/Portfolio-jessicadougherty.com-2E7D32?style=flat&labelColor=1B5E20)](https://jessicadougherty.com)
 
+---
 
 ## 🛠️ What I Build
 
